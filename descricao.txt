@@ -1,0 +1,20 @@
+Crie um aplicativo que funcione como um guia para estes restaurantes.
+O guia deve mostrar na tela inicial uma lista com os nomes de alguns restaurantes e suas localizações.
+Ao selecionar um restaurante, deve ser exibida uma tela com as principais informações: horário de funcionamento, endereço, tipos de bebidas disponíveis e cardápio, etc.
+Adicione ao seu aplicativo informações sobre pelo menos três restaurantes.
+A partir da tela com informações sobre o restaurante deve ser possível visualizar em um mapa o local.
+Os dados utilizados pelo aplicativo deverão ser armazenados em um servidor backend podendo ser implementado em qualquer linguagem de programação.
+
+
+
+Lista de restaurantes
+    nome
+    endereço
+
+Detalhe do restaurante
+    horario de funcionamento
+    endereço
+    tipos de bebidas
+    cardapio
+    Ver no mapa
+

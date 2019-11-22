@@ -1,0 +1,89 @@
+[
+    {
+        "id": "bd7acbea-c1b1-46c2-aed5-3ad53abb28ba",
+        "title": "Restaurante Saladas",
+        "endereco": "Nome de alguma rua, 88130-888",
+        "horario": "11:00 - 14:00",
+        "lat": -27.594587,
+        "lon": -48.538198,
+        "cardapio": [
+            {
+                "nome": "Bebidas",
+                "data": [
+                    "água",
+                    "refrigerante",
+                    "sucos",
+                    "vodka"
+                ]
+            },
+            {
+                "nome": "Comidas",
+                "data": [
+                    "risoto",
+                    "churrasco",
+                    "sopa"
+                ]
+            },
+            {
+                "nome": "Drinks",
+                "data": [
+                    "moscou mule",
+                    "bloody mary",
+                    "caipirinha"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "3ac68afc-c605-48d3-a4f8-fbd91aa97f63",
+        "title": "Celesc",
+        "endereco": "Nome de alguma rua, 88130-888",
+        "horario": "11:00 - 14:00",
+        "lat": -27.594587,
+        "lon": -48.538198,
+        "cardapio": [
+            {
+                "nome": "Bebidas",
+                "data": [
+                    "água",
+                    "refrigerante",
+                    "sucos"
+                ]
+            },
+            {
+                "nome": "Comidas",
+                "data": [
+                    "risoto",
+                    "churrasco",
+                    "sopa"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "58694a0f-3da1-471f-bd96-145571e29d72",
+        "title": "Pizzaria doideira",
+        "endereco": "Nome de alguma rua, 88130-888",
+        "horario": "11:00 - 14:00",
+        "lat": -27.594587,
+        "lon": -48.538198,
+        "cardapio": [
+            {
+                "nome": "Bebidas",
+                "data": [
+                    "água",
+                    "refrigerante",
+                    "sucos"
+                ]
+            },
+            {
+                "nome": "Comidas",
+                "data": [
+                    "risoto",
+                    "churrasco",
+                    "sopa"
+                ]
+            }
+        ]
+    }
+]

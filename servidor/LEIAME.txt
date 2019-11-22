@@ -1,0 +1,28 @@
+https://surge.sh/help/getting-started-with-surge
+
+sudo npm install --global surge
+
+surge --domain restaurantes.surge.sh
+
+echo "restaurantes.surge.sh" > CNAME
+surge ./
+
+
+email: restaurantesdoidao@gmail.com
+senha: asdqwe
+
+
+
+Executar o emulador do Android
+
+emulator -avd Pixel_2_API_25
+
+Instalar o aplicativo
+react-native run-android
+
+Ver os logs do aplicativo
+react-native log-android
+
+
+Executar o servidor de código
+npm start
